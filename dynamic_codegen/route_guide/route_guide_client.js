@@ -16,7 +16,7 @@
  *
  */
 
-var PROTO_PATH = __dirname + '/../../../protos/route_guide.proto';
+var PROTO_PATH = __dirname + '/../../protos/route_guide.proto';
 
 var async = require('async');
 var fs = require('fs');

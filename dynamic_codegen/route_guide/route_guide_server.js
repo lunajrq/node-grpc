@@ -16,7 +16,7 @@
  *
  */
 
-var PROTO_PATH = __dirname + '/../../../protos/route_guide.proto';
+var PROTO_PATH = __dirname + '/../../protos/route_guide.proto';
 
 var fs = require('fs');
 var parseArgs = require('minimist');
